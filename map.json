@@ -89,5 +89,61 @@
     "anchor": "a-17724570",
     "url": "payouts.html#a-17724570",
     "articleUrl": "en/articles/17724570-how-payouts-affect-your-drawdown"
+  },
+  "17726219": {
+    "page": "get-started",
+    "tab": "about",
+    "anchor": "a-17726219",
+    "url": "get-started.html#a-17726219",
+    "articleUrl": "en/articles/17726219-can-i-have-more-than-one-account"
+  },
+  "17726220": {
+    "page": "get-started",
+    "tab": "about",
+    "anchor": "a-17726220",
+    "url": "get-started.html#a-17726220",
+    "articleUrl": "en/articles/17726220-which-countries-are-restricted"
+  },
+  "17726221": {
+    "page": "trading-rules",
+    "tab": "limits",
+    "anchor": "a-17726221",
+    "url": "trading-rules.html#a-17726221",
+    "articleUrl": "en/articles/17726221-what-happens-if-i-fail-my-evaluation"
+  },
+  "17726222": {
+    "page": "trading-rules",
+    "tab": "limits",
+    "anchor": "a-17726222",
+    "url": "trading-rules.html#a-17726222",
+    "articleUrl": "en/articles/17726222-is-there-an-inactivity-rule"
+  },
+  "17726224": {
+    "page": "trading-rules",
+    "tab": "limits",
+    "anchor": "a-17726224",
+    "url": "trading-rules.html#a-17726224",
+    "articleUrl": "en/articles/17726224-prohibited-trading-practices"
+  },
+  "17726225": {
+    "page": "get-started",
+    "tab": "about",
+    "anchor": "a-17726225",
+    "url": "get-started.html#a-17726225",
+    "articleUrl": "en/articles/17726225-payment-methods-and-checkout"
+  },
+  "17726226": {
+    "page": "get-started",
+    "tab": "about",
+    "anchor": "a-17726226",
+    "url": "get-started.html#a-17726226",
+    "articleUrl": "en/articles/17726226-is-the-evaluation-fee-refundable"
+  },
+  "17743746": {
+    "page": "trading-rules",
+    "tab": "limits",
+    "anchor": "a-17743746",
+    "url": "trading-rules.html#a-17743746",
+    "articleUrl": "en/articles/17743746-daily-drawdown"
   }
 }

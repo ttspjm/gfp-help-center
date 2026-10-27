@@ -38,6 +38,30 @@
     ],
     "17724570": [
       "17724570-how-payouts-affect-your-drawdown"
+    ],
+    "17726219": [
+      "17726219-can-i-have-more-than-one-account"
+    ],
+    "17726220": [
+      "17726220-which-countries-are-restricted"
+    ],
+    "17726221": [
+      "17726221-what-happens-if-i-fail-my-evaluation"
+    ],
+    "17726222": [
+      "17726222-is-there-an-inactivity-rule"
+    ],
+    "17726224": [
+      "17726224-prohibited-trading-practices"
+    ],
+    "17726225": [
+      "17726225-payment-methods-and-checkout"
+    ],
+    "17726226": [
+      "17726226-is-the-evaluation-fee-refundable"
+    ],
+    "17743746": [
+      "17743746-daily-drawdown"
     ]
   },
   "collections": {
@@ -49,6 +73,9 @@
     ],
     "19790872": [
       "19790872-payouts"
+    ],
+    "19791069": [
+      "19791069-payments-and-billing"
     ]
   }
 }
