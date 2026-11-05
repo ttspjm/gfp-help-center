@@ -22,10 +22,12 @@
       "17724564-position-and-share-limits"
     ],
     "17724565": [
-      "17724565-risk-per-event-limit"
+      "17724565-risk-per-event-limit",
+      "17724565-entry-price-range"
     ],
     "17724566": [
-      "17724566-trading-days-and-qualifying-profit-days"
+      "17724566-trading-days-and-qualifying-profit-days",
+      "17724566-minimum-profitable-days"
     ],
     "17724567": [
       "17724567-are-bots-or-automated-tools-allowed"
@@ -62,6 +64,21 @@
     ],
     "17743746": [
       "17743746-daily-drawdown"
+    ],
+    "18246187": [
+      "18246187-maximum-floating-loss"
+    ],
+    "18246191": [
+      "18246191-goat-model-rules"
+    ],
+    "18246192": [
+      "18246192-premium-model-rules"
+    ],
+    "18246193": [
+      "18246193-rookie-model-rules"
+    ],
+    "18246194": [
+      "18246194-rules-for-the-original-1-step-evaluation"
     ]
   },
   "collections": {
